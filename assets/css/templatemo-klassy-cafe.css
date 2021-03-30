@@ -650,13 +650,9 @@ header
 }
 
 
-/* 
----------------------------------------------
-banner
---------------------------------------------- 
-*/
+
 #banner { 
-  background : linear-gradient(rgba(0,0,0,.3),#180809), url(../images/slider1.jpg);
+  background : linear-gradient(rgba(0,0,0,.3),#180809), url(/images/slider1.jpg);
   background-size: cover;
   height: 100vh;
   background-position: center;
